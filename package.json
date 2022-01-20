@@ -1,6 +1,6 @@
 {
-	"author": "Daniel Doulong",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Daniel Doulong",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
